@@ -1,0 +1,166 @@
+
+body {
+  margin: 0 auto;
+  font-family: 'Raleway', sans-serif;
+  font-size: 16px;
+  line-height: 1.71429;
+
+ 
+}
+header{
+  
+}
+#titulos{
+	display: inline-block;
+	position: static;
+	padding-right: 50px;
+	bottom: 20px;
+	left: 160px;
+
+}
+a{
+
+  font-weight: bold;
+  font-size: 110%;
+  margin-right: 45px;
+  text-transform: uppercase;
+  position: relative;
+  bottom: 20px;
+  left: 150px;
+}
+a:hover{
+	color: #E95853;
+    cursor: pointer;
+}
+
+#logo{
+	position: relative;
+	width: 70px;
+	height: 70px;
+	left: 170%;
+	top: 7px;
+
+}
+#home{
+	position: relative;
+	width: 101%;
+	right: 15px;
+	top: 90px;
+
+}
+.caja-home{
+	position: relative;
+    text-align: center;
+    width: 100%;
+    display: inline-block;
+    font-size: 110%;
+    bottom: 437px;  
+    color: #fff; 
+    text-transform: uppercase;
+}
+h1{
+    font-size: 50px;
+    margin-top: 75px;
+}
+.caja-home a{
+    top: 60px;
+    left: 10px;
+    background: #2ecc71;
+}
+.caja-color{
+	position: relative;
+	background: #f17c72;
+    bottom: 291px;
+    height: 650px;
+}
+#lo{
+   font-size: 150%;
+   position: relative;
+   top: 50px;
+   text-align: center;
+   color: #fff;
+   
+}
+.servi1{
+    position: relative;
+	right: 355px;
+	top:  270px;
+	text-align: center;
+	color: #fff;
+}
+#servi1{
+	position: absolute;
+	width: 200px;
+	height: 200px;
+	bottom: 230px;
+	left: 220px;
+}
+.servi2{
+	position: relative;
+	text-align: center;
+	color: #fff;
+	bottom: 139px;
+    right: 20px;
+
+
+}
+#servi2{
+	position: relative;
+	width: 200px;
+	height: 200px;
+	left: 550px;
+	bottom: 140px;
+}
+.servi3{
+	position: relative;
+	text-align: center;
+	color: #fff;
+	bottom: 547px;
+    left: 330px;
+
+}
+#servi3{
+    position: relative;
+	width: 200px;
+	height: 200px;
+	bottom: 555px;
+	left: 67.3%;
+
+}
+.hero{
+	font-size: 20px;
+	text-align: center;
+	position: relative;
+	bottom: 250px;
+}
+#hero{
+	position: relative;
+	width: 75%;
+	height: 75%;
+	left: 165px;
+	bottom: 230px;
+}
+#work{
+	display: inline-block;
+	position: relative;
+	width: 250px;
+    height: 250px;
+    left: 100px;
+    bottom: 180px;
+    margin-bottom: 70px;
+}
+.caja{
+    display: inline-block;
+	}
+.pe{
+	display: inline-block;
+	position: relative;
+	bottom: 220px;
+	right: 125px;
+	font-weight: bold;
+}
+.copy{
+	background: #373b47;
+	color: #fff;
+	text-align: center;
+}
